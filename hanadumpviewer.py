@@ -50,7 +50,7 @@ def printHelp():
     print("  > python hanadumpviewer.py -df indexserver_ls80010.30003.rtedump.oom.trc,indexserver_mo-fc8d991e0.30003.rtedump.trc          ")
     print("                                                                                                                               ")
     print(" KNOWN ISSUES:                                                                                                                 ")
-    print(" * Does not support threads from Data Tiering (TODO)                                                                           ")
+    print(" * Does not support threads from Dynamic Tiering (TODO)                                                                           ")
     print("                                                                                                                               ")
     print("AUTHOR: Christian Hansen                                                                                                       ")
     print("                                                                                                                               ")
