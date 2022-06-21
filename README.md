@@ -1,8 +1,8 @@
-# SAP HANADumpViewer
+# HANADumpViewer
 A script to help analyzing SAP HANA dumps
 
 ### DESCRIPTION:  
-The SAP HANADumpViewer helps analyzing SAP HANA dumps. It creates .dot files out of trace files. These .dot files can be viewed in e.g. [http://www.webgraphviz.com/](http://www.webgraphviz.com/). See also SAP Note [2491748](https://launchpad.support.sap.com/#/notes/2491748).
+The HANADumpViewer helps analyzing SAP HANA dumps. It creates .dot files out of trace files. These .dot files can be viewed in e.g. [http://www.webgraphviz.com/](http://www.webgraphviz.com/). See also SAP Note [2491748](https://launchpad.support.sap.com/#/notes/2491748).
 
 
 ### DISCLAIMER:    
